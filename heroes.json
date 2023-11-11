@@ -1,0 +1,49 @@
+{
+  "heroes": [
+    {
+      "name": "Первый герой",
+      "description": "он реально первый!",
+      "element": "fire",
+      "id": "221fb07d-ed62-413c-b25e-4e5be03e1bf5"
+    },
+    {
+      "name": "Ветреный герой",
+      "description": "высокий эстроген",
+      "element": "wind",
+      "id": "e28e0ed9-2bce-4dbe-bd9d-0c3e31196c59"
+    },
+    {
+      "name": "Земляной герой",
+      "description": "любит жрать землю",
+      "element": "earth",
+      "id": "259de6f4-76b5-4710-a605-b174df0c2cc5"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "ru_name": "Все",
+      "style": "btn-outline-dark active"
+    },
+    {
+      "name": "fire",
+      "ru_name": "Огонь",
+      "style": "btn-danger"
+    },
+    {
+      "name": "water",
+      "ru_name": "Вода",
+      "style": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "ru_name": "Ветер",
+      "style": "btn-success"
+    },
+    {
+      "name": "earth",
+      "ru_name": "Земля",
+      "style": "btn-secondary"
+    }
+  ]
+}
